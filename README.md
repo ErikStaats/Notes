@@ -1,4 +1,4 @@
 # Notes
 
-[Erik's Notes](/ErikStaats/Notes/wiki)
+[Erik's Notes](https://github.com/ErikStaats/Notes/wiki)
 
